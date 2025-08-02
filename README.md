@@ -1,80 +1,43 @@
-# 📘 Math for Coding – Master the Code Behind the Logic
+# 🚀 Logic Behind Code
 
-Welcome to the **ultimate math roadmap** for developers, AI enthusiasts, cybersecurity learners, and quantum explorers.
+A beautifully crafted, interactive **Math Roadmap** designed to make every core concept clear — from **coding logic** to **DSA**, **AI**, **Cybersecurity**, and even **Quantum Computing** fundamentals.
 
-This repo gives you **every essential math topic** you’ll need to become a powerful problem-solver and a smarter coder — no matter your field.
+## 🌐 Live Demo
+> 🔗 [Click here to view the live roadmap](https://jawadabbasi14.github.io/logic-behind-code/)
 
-🌐 **Live Demo**: [Visit the Roadmap](https://jawadabbasi14.github.io/Math-for--coding/)  
-🛠️ **Created by**: [Jawad Abbasi](https://www.linkedin.com/in/mjabbasi-dev)
+## 📌 Key Features
+- ✅ Clean & responsive HTML/CSS layout
+- ✅ LocalStorage-powered **progress tracker**
+- ✅ Difficulty tags: Easy / Medium / Hard
+- ✅ Click-to-collapse **roadmap phases**
+- ✅ Floating phase navigation
+- ✅ Fully customizable and offline-friendly
+- ✅ Beautiful footer & social icons
 
----
+## 📚 Sections Covered
+- Math Fundamentals
+- Algebra & Equations
+- Probability & Statistics
+- Linear Algebra
+- Calculus
+- Discrete Math (for Cybersecurity)
+- Quantum Math & Complex Numbers
 
-## 🚀 What You'll Learn
-
-| Phase | Topics Covered                            | Use Case                  |
-|-------|-------------------------------------------|---------------------------|
-| 1️⃣ Math Fundamentals        | Arithmetic, Fractions, Binary etc.      | Coding, Cybersecurity     |
-| 2️⃣ Algebra & Equations     | Linear systems, Graphs, Functions       | ML, Logic Building        |
-| 3️⃣ Probability & Statistics| Mean, Bayes, Distributions              | AI, Data Science          |
-| 4️⃣ Linear Algebra          | Vectors, Matrices, Eigenvalues         | Deep Learning, Graphics   |
-| 5️⃣ Calculus                | Derivatives, Integrals, Optimization   | Neural Nets, Physics      |
-| 6️⃣ Discrete Math           | Logic, Graph Theory, Combinatorics     | Cryptography, CS Theory   |
-| 7️⃣ Advanced Math           | Complex numbers, Quantum States        | Quantum Computing         |
-
----
-
-## ✅ Features
-
-- 📌 Interactive collapsible sections
-- ☑️ Track your progress with persistent checkboxes
-- 🧠 Smart difficulty tags (Easy / Medium / Hard)
-- 💡 Study tips for motivation and mastery
-- ⚛️ Designed for AI, Quantum, and Cybersecurity paths
+## 👨‍💻 Designed & Curated by [JawaD](https://www.linkedin.com/in/mjabbasi-dev/)
 
 ---
 
-## 🖥️ Tech Stack
+## 📁 How to Use
 
-- HTML5 + CSS3
-- JavaScript (vanilla)
-- Tailwind CSS
-- LocalStorage (for progress tracking)
-
----
-
-## 📸 Preview
-
-![Roadmap Preview](https://i.imgur.com/k4wMCEW.png) <!-- Replace with your screenshot if needed -->
+1. Clone or download the repository
+2. Open `index.html` in your browser (or deploy via GitHub Pages)
+3. Start checking off topics as you learn! Your progress is saved locally ✅
 
 ---
 
-## 📂 How to Use
+## 💬 Feedback
 
-1. Clone this repo or download as ZIP  
-2. Open `index.html` in your browser  
-3. Mark your progress as you learn  
-4. Customize or expand as needed
-
----
-
-## 👤 About the Creator
-
-> **JawaD** — Fullstack Learner | AI Explorer | Cybersecurity Mind | Roadmap Builder  
-> 🔗 [GitHub](https://github.com/JawadAbbasi14) | [LinkedIn](https://www.linkedin.com/in/mjabbasi-dev)
-
----
-
-## 📬 Want More?
-
-Stay tuned for:
-- 🧮 Python notebooks linked to each topic  
-- 📊 Visual demos for AI and ML  
-- 🎯 Practice problems + quizzes  
-
----
-
-## ⭐ Star This Repo
-
-If this roadmap helps you, give it a ⭐ and share it with your fellow coders!
+Feel free to open an issue or suggest improvements.  
+Let’s help more learners master math & logic behind coding 💡
 
 ---
